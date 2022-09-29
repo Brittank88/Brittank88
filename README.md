@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Brittank88's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Brittank88&show_icons=true&theme=tokyonight)
+<img height="200" alt="Brittank88's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=Brittank88&show_icons=true&theme=tokyonight" />
+&nbsp;
+<img height="200" alt="Brittank88's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=tokyonight&layout=compact" />
 
 </div>
